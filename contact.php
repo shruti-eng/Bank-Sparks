@@ -54,7 +54,7 @@ display:inline-block;
 
       <div class="card">
         <i class="card-icon far fa-envelope"></i>
-        <p>parkashrai560@gmail.com</p>
+        <p>shrubitu01@gmail.com</p>
       </div> 
 
       <div class="card">
